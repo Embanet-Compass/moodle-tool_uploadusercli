@@ -1,0 +1,9 @@
+{
+  "name": "embanet-compass/moodle-tool_uploadusercli",
+  "type": "moodle-tool",
+  "description": "Moodle Upload User Tool",
+  "extra": {
+    "installer-name": "uploadusercli",
+    "moodle": { "package_folder_name" : "uploadusercli" }
+  }
+}
